@@ -1,4 +1,4 @@
-# development-resources
+# Development Resources
 This repository for documenting great resources for development 
 
 1. [ICON/LOGO] Wine:Popular SVG Logo
