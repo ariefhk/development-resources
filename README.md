@@ -7,7 +7,7 @@ This repository for documenting great resources for development
 - [Simple Icons](https://simpleicons.org)
 - [Icon Scout](https://iconscout.com/)
 
-  ## Styling Tools🖼⚒
+## Styling Tools🖼⚒
 - [CSS Reset](https://meyerweb.com/eric/tools/css/reset/)
 - [Box Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
 
