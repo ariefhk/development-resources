@@ -1,19 +1,18 @@
 # Development Resources 🚧
 This repository for documenting great resources for development 
 
-## Managing Teams👨‍💼
-- [Trello](https://trello.com/en)
-
 ## Icon / SVG / Dummy & Placeholder IMG🖼
+- [Placehold: free placeholder img](https://placehold.co/)
 - [Wine: Popular SVG Logo](https://www.logo.wine)
 - [Simple Icons](https://simpleicons.org)
 - [Icon Scout](https://iconscout.com/)
 
+  ## Styling Tools🖼⚒
+- [CSS Reset](https://meyerweb.com/eric/tools/css/reset/)
+- [Box Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
+
 ## Animation🖼🚶‍♂️
 - [LottieFiles](https://lottiefiles.com/)
-
-## Styling Tools🖼⚒
-- [Box Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html)
 
 ## API🌐
 - [MyQuran API](https://documenter.getpostman.com/view/841292/Tz5p7yHS#33fba644-454e-4f45-96e3-bc1ce87b0629)
@@ -26,6 +25,7 @@ This repository for documenting great resources for development
 ## ORM & Query Builder📦
 - [Prisma](https://www.prisma.io/)
 - [Sequielize](https://sequelize.org/)
+- [Knex](https://knexjs.org/guide/)
 
 ## React.js⚛
 A list for react development
@@ -40,6 +40,7 @@ A list for react development
 ### - React-Utility⚗
 - [HTML to JSX](https://magic.reactjs.net/htmltojsx.htm)
 ### - React-Components🐱‍🏍
+- [ShadCn](https://ui.shadcn.com/)
 - [React Boostrap](https://react-bootstrap.github.io/)
 - [Flowbite (based tailwind)](https://flowbite-react.com/)
 - [Tailwind Component](https://tailwindcomponents.com/)
